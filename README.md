@@ -3,7 +3,11 @@
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
-# Software required :  
+# Software required : 
+
+.
+
+
 
 Python and Visual component tool
 
@@ -16,6 +20,10 @@ Python and Visual component tool
 .
 
 
+
+
+
+
 The Poisson distribution is the discrete probability distribution of the number of events occurring in a given time period, given the average number of times the event occurs over that time period.
 
 
@@ -26,10 +34,16 @@ The Poisson distribution is the discrete probability distribution of the number 
 
  Conditions for Poisson Distribution:
 
+
 1. An event can occur any number of times during a time period.
+
 2. Events occur independently. I
+
 3. The rate of occurrence is constant.
+
 4. The probability of an event occurring is proportional to the length of the time period. 
+
+
  
 # Procedure :
 
