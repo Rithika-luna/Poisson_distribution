@@ -12,9 +12,17 @@ Python and Visual component tool
 
 # Theory:
 
+
+.
+
+
 The Poisson distribution is the discrete probability distribution of the number of events occurring in a given time period, given the average number of times the event occurs over that time period.
 
+
+
 ![image](https://user-images.githubusercontent.com/104613195/166248326-fd042076-8b0b-40c4-8b11-1d8e8fcb74db.png)
+
+
 
  Conditions for Poisson Distribution:
 
@@ -25,12 +33,15 @@ The Poisson distribution is the discrete probability distribution of the number 
  
 # Procedure :
 
+
+
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 
 
 
 
 # Experiment :
+
 
 
 
